@@ -10,6 +10,9 @@ Mobile multi-play tic-tac-toe game
 
 
 전달값
+
+Json
+
 <pre>
 {
   'username':'hongildong',
@@ -17,6 +20,14 @@ Mobile multi-play tic-tac-toe game
   'name':'홍길동'
 }
 </pre>
+
+form-data
+
+|키|값|
+|---|---|
+|username|hongildong|
+|password|hong1234|
+|name|홍길동|
 
 #### 결과
 
